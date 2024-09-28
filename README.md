@@ -24,8 +24,7 @@ Author- Nikita Pant
 
 1. **Clone the repository:**
    ```bash
-  git clone https://github.com/HNikki0303/Sudoku-Solver.git
-
+   git clone https://github.com/HNikki0303/Sudoku-Solver.git
 
 2. **Navigate to the project directory:**
    ```bash
@@ -40,7 +39,7 @@ Author- Nikita Pant
    ```bash
    java SudokuSolver
 
-### **Acknowledgements:**
+### **Usage:**
 The program initializes a Sudoku board with some pre-filled values. It solves the puzzle using a backtracking algorithm and prints the solved board to the console.
 
 ### **Contributing:**
